@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fightercraft010.aternos.me:54250",
+    "ip": "fightercraft010.aternos.me",
     "port": 54250,
     "version": "",
     "try-creative": false
